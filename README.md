@@ -1,4 +1,4 @@
-# netflix-clone
+# ![netflix logo](./public/favicon.ico) Netflix-Clone 
 
 # Getting Started with Create React App
 
